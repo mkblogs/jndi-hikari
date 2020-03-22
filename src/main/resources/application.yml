@@ -1,0 +1,6 @@
+spring:
+  datasource: 
+   jndi-name: jdbc/my_database
+  
+
+     
